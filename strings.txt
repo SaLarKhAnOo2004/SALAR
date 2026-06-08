@@ -1,0 +1,1316 @@
+Galaxy S3|Samsung|{density=3.0,width=720,height=2448}
+Galaxy S3 Pro|Samsung|{density=3.0,width=720,height=2560}
+Galaxy S3 Plus|Samsung|{density=3.0,width=1080,height=2480}
+Galaxy S3 Ultra|Samsung|{density=2.75,width=720,height=1920}
+Galaxy S3 4G|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy S3 5G|Samsung|{density=2.75,width=1080,height=2448}
+Galaxy S4|Samsung|{density=2.75,width=720,height=2560}
+Galaxy S4 Pro|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy S4 Plus|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy S4 Ultra|Samsung|{density=3.0,width=1080,height=2560}
+Galaxy S4 4G|Samsung|{density=3.5,width=720,height=2560}
+Galaxy S4 5G|Samsung|{density=3.5,width=720,height=1920}
+Galaxy S5|Samsung|{density=3.5,width=1440,height=2480}
+Galaxy S5 Pro|Samsung|{density=3.5,width=1080,height=2480}
+Galaxy S5 Plus|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy S5 Ultra|Samsung|{density=3.5,width=720,height=2280}
+Galaxy S5 4G|Samsung|{density=3.0,width=1440,height=1280}
+Galaxy S5 5G|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy S6|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy S6 Pro|Samsung|{density=2.75,width=1080,height=2480}
+Galaxy S6 Plus|Samsung|{density=3.5,width=1440,height=2448}
+Galaxy S6 Ultra|Samsung|{density=3.5,width=1440,height=2480}
+Galaxy S6 4G|Samsung|{density=3.5,width=720,height=2560}
+Galaxy S6 5G|Samsung|{density=3.5,width=1080,height=2448}
+Galaxy S7|Samsung|{density=3.0,width=1440,height=1920}
+Galaxy S7 Pro|Samsung|{density=3.0,width=720,height=2400}
+Galaxy S7 Plus|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy S7 Ultra|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy S7 4G|Samsung|{density=2.75,width=1080,height=2480}
+Galaxy S7 5G|Samsung|{density=3.5,width=720,height=2400}
+Galaxy S8|Samsung|{density=3.5,width=1080,height=2448}
+Galaxy S8 Pro|Samsung|{density=3.5,width=720,height=2560}
+Galaxy S8 Plus|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy S8 Ultra|Samsung|{density=3.0,width=1440,height=2560}
+Galaxy S8 4G|Samsung|{density=3.0,width=1440,height=2480}
+Galaxy S8 5G|Samsung|{density=3.0,width=720,height=2448}
+Galaxy S9|Samsung|{density=3.0,width=1440,height=2480}
+Galaxy S9 Pro|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy S9 Plus|Samsung|{density=3.5,width=1440,height=2560}
+Galaxy S9 Ultra|Samsung|{density=3.0,width=1080,height=1280}
+Galaxy S9 4G|Samsung|{density=2.75,width=1080,height=2560}
+Galaxy S9 5G|Samsung|{density=3.5,width=720,height=2560}
+Galaxy S10e|Samsung|{density=2.75,width=720,height=2400}
+Galaxy S10e Pro|Samsung|{density=3.0,width=720,height=1280}
+Galaxy S10e Plus|Samsung|{density=3.0,width=720,height=1280}
+Galaxy S10e Ultra|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy S10e 4G|Samsung|{density=2.75,width=1440,height=2560}
+Galaxy S10e 5G|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy S10|Samsung|{density=3.0,width=1080,height=2280}
+Galaxy S10 Pro|Samsung|{density=3.5,width=720,height=2560}
+Galaxy S10 Plus|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy S10 Ultra|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy S10 4G|Samsung|{density=3.5,width=1440,height=2448}
+Galaxy S10 5G|Samsung|{density=3.0,width=720,height=2480}
+Galaxy S10 Lite|Samsung|{density=3.5,width=720,height=2448}
+Galaxy S10 Lite Pro|Samsung|{density=3.5,width=1080,height=2280}
+Galaxy S10 Lite Plus|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy S10 Lite Ultra|Samsung|{density=3.5,width=720,height=2448}
+Galaxy S10 Lite 4G|Samsung|{density=2.75,width=1440,height=2480}
+Galaxy S10 Lite 5G|Samsung|{density=3.5,width=720,height=2280}
+Galaxy S20 FE|Samsung|{density=3.0,width=720,height=2560}
+Galaxy S20 FE Pro|Samsung|{density=3.0,width=1440,height=2480}
+Galaxy S20 FE Plus|Samsung|{density=2.75,width=720,height=2448}
+Galaxy S20 FE Ultra|Samsung|{density=2.75,width=1440,height=2448}
+Galaxy S20 FE 4G|Samsung|{density=3.5,width=1440,height=2448}
+Galaxy S20 FE 5G|Samsung|{density=3.0,width=720,height=2560}
+Galaxy S20|Samsung|{density=3.5,width=1080,height=2448}
+Galaxy S20 Pro|Samsung|{density=3.5,width=720,height=2480}
+Galaxy S20 Plus|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy S20 Ultra|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy S20 4G|Samsung|{density=3.5,width=720,height=2560}
+Galaxy S20 5G|Samsung|{density=2.75,width=1440,height=1280}
+Galaxy S20+|Samsung|{density=3.0,width=1080,height=2560}
+Galaxy S20+ Pro|Samsung|{density=2.75,width=1080,height=2448}
+Galaxy S20+ Plus|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy S20+ Ultra|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy S20+ 4G|Samsung|{density=3.5,width=1440,height=2280}
+Galaxy S20+ 5G|Samsung|{density=2.75,width=1080,height=1920}
+Galaxy S20 Ultra|Samsung|{density=3.0,width=1080,height=2280}
+Galaxy S20 Ultra 4G|Samsung|{density=3.5,width=720,height=2400}
+Galaxy S20 Ultra 5G|Samsung|{density=3.5,width=720,height=2400}
+Galaxy S21 FE|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy S21 FE Pro|Samsung|{density=3.0,width=1080,height=2480}
+Galaxy S21 FE Plus|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy S21 FE Ultra|Samsung|{density=3.0,width=1080,height=2560}
+Galaxy S21 FE 4G|Samsung|{density=3.0,width=1080,height=2280}
+Galaxy S21 FE 5G|Samsung|{density=3.5,width=720,height=1280}
+Galaxy S21|Samsung|{density=2.75,width=720,height=2280}
+Galaxy S21 Pro|Samsung|{density=2.75,width=720,height=2280}
+Galaxy S21 Plus|Samsung|{density=2.75,width=720,height=2560}
+Galaxy S21 Ultra|Samsung|{density=3.0,width=720,height=2480}
+Galaxy S21 4G|Samsung|{density=3.0,width=720,height=2560}
+Galaxy S21 5G|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy S21+|Samsung|{density=3.0,width=1080,height=1280}
+Galaxy S21+ Pro|Samsung|{density=3.0,width=720,height=2480}
+Galaxy S21+ Plus|Samsung|{density=3.0,width=720,height=2280}
+Galaxy S21+ Ultra|Samsung|{density=3.0,width=1080,height=2448}
+Galaxy S21+ 4G|Samsung|{density=3.0,width=1080,height=2400}
+Galaxy S21+ 5G|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy S21 Ultra|Samsung|{density=3.0,width=1080,height=1280}
+Galaxy S21 Ultra 4G|Samsung|{density=3.5,width=1080,height=2400}
+Galaxy S21 Ultra 5G|Samsung|{density=3.0,width=1080,height=2400}
+Galaxy S22|Samsung|{density=2.75,width=1080,height=2560}
+Galaxy S22 Pro|Samsung|{density=3.5,width=1440,height=2560}
+Galaxy S22 Plus|Samsung|{density=3.0,width=1080,height=1280}
+Galaxy S22 Ultra|Samsung|{density=3.5,width=720,height=2280}
+Galaxy S22 4G|Samsung|{density=3.0,width=720,height=1920}
+Galaxy S22 5G|Samsung|{density=3.0,width=720,height=2560}
+Galaxy S22+|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy S22+ Pro|Samsung|{density=3.5,width=1080,height=2448}
+Galaxy S22+ Plus|Samsung|{density=2.75,width=720,height=2280}
+Galaxy S22+ Ultra|Samsung|{density=3.0,width=720,height=2400}
+Galaxy S22+ 4G|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy S22+ 5G|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy S22 Ultra|Samsung|{density=3.0,width=720,height=2560}
+Galaxy S22 Ultra 4G|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy S22 Ultra 5G|Samsung|{density=3.0,width=720,height=2448}
+Galaxy S23 FE|Samsung|{density=3.5,width=720,height=2560}
+Galaxy S23 FE Pro|Samsung|{density=3.0,width=1080,height=2400}
+Galaxy S23 FE Plus|Samsung|{density=3.5,width=1440,height=2480}
+Galaxy S23 FE Ultra|Samsung|{density=3.0,width=720,height=2448}
+Galaxy S23 FE 4G|Samsung|{density=2.75,width=1080,height=2560}
+Galaxy S23 FE 5G|Samsung|{density=3.5,width=720,height=1280}
+Galaxy S23|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy S23 Pro|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy S23 Plus|Samsung|{density=2.75,width=720,height=2448}
+Galaxy S23 Ultra|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy S23 4G|Samsung|{density=3.5,width=720,height=2400}
+Galaxy S23 5G|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy S23+|Samsung|{density=2.75,width=1080,height=2480}
+Galaxy S23+ Pro|Samsung|{density=2.75,width=720,height=2560}
+Galaxy S23+ Plus|Samsung|{density=2.75,width=720,height=2448}
+Galaxy S23+ Ultra|Samsung|{density=3.5,width=720,height=2448}
+Galaxy S23+ 4G|Samsung|{density=3.0,width=720,height=1280}
+Galaxy S23+ 5G|Samsung|{density=3.0,width=1440,height=1280}
+Galaxy S23 Ultra|Samsung|{density=2.75,width=720,height=2448}
+Galaxy S23 Ultra 4G|Samsung|{density=3.0,width=1080,height=2480}
+Galaxy S23 Ultra 5G|Samsung|{density=3.5,width=720,height=2480}
+Galaxy S24 FE|Samsung|{density=2.75,width=1440,height=2448}
+Galaxy S24 FE Pro|Samsung|{density=3.0,width=720,height=2400}
+Galaxy S24 FE Plus|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy S24 FE Ultra|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy S24 FE 4G|Samsung|{density=3.0,width=1440,height=2480}
+Galaxy S24 FE 5G|Samsung|{density=3.0,width=1440,height=1920}
+Galaxy S24|Samsung|{density=2.75,width=1080,height=2448}
+Galaxy S24 Pro|Samsung|{density=3.5,width=720,height=1280}
+Galaxy S24 Plus|Samsung|{density=2.75,width=720,height=1920}
+Galaxy S24 Ultra|Samsung|{density=3.0,width=1440,height=2480}
+Galaxy S24 4G|Samsung|{density=3.0,width=720,height=2400}
+Galaxy S24 5G|Samsung|{density=2.75,width=1080,height=2400}
+Galaxy S24+|Samsung|{density=3.0,width=1080,height=1280}
+Galaxy S24+ Pro|Samsung|{density=2.75,width=1080,height=2448}
+Galaxy S24+ Plus|Samsung|{density=3.0,width=1080,height=2280}
+Galaxy S24+ Ultra|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy S24+ 4G|Samsung|{density=3.5,width=1440,height=2280}
+Galaxy S24+ 5G|Samsung|{density=3.5,width=720,height=2480}
+Galaxy S24 Ultra|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy S24 Ultra 4G|Samsung|{density=2.75,width=1440,height=1280}
+Galaxy S24 Ultra 5G|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy S25|Samsung|{density=3.5,width=1080,height=2480}
+Galaxy S25 Pro|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy S25 Plus|Samsung|{density=2.75,width=720,height=1920}
+Galaxy S25 Ultra|Samsung|{density=3.0,width=1440,height=2560}
+Galaxy S25 4G|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy S25 5G|Samsung|{density=2.75,width=720,height=2448}
+Galaxy S25+|Samsung|{density=3.5,width=720,height=2560}
+Galaxy S25+ Pro|Samsung|{density=2.75,width=1080,height=2480}
+Galaxy S25+ Plus|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy S25+ Ultra|Samsung|{density=2.75,width=720,height=2480}
+Galaxy S25+ 4G|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy S25+ 5G|Samsung|{density=3.0,width=1440,height=2560}
+Galaxy S25 Ultra|Samsung|{density=2.75,width=720,height=2400}
+Galaxy S25 Ultra 4G|Samsung|{density=3.5,width=1440,height=2480}
+Galaxy S25 Ultra 5G|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy Z Fold 3|Samsung|{density=3.0,width=1440,height=1920}
+Galaxy Z Fold 3 Pro|Samsung|{density=3.5,width=1440,height=2480}
+Galaxy Z Fold 3 Plus|Samsung|{density=3.5,width=720,height=2560}
+Galaxy Z Fold 3 Ultra|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy Z Fold 3 4G|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy Z Fold 3 5G|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy Z Fold 4|Samsung|{density=3.5,width=1440,height=2560}
+Galaxy Z Fold 4 Pro|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy Z Fold 4 Plus|Samsung|{density=3.5,width=1440,height=2480}
+Galaxy Z Fold 4 Ultra|Samsung|{density=3.5,width=720,height=1920}
+Galaxy Z Fold 4 4G|Samsung|{density=2.75,width=720,height=2480}
+Galaxy Z Fold 4 5G|Samsung|{density=3.0,width=720,height=1280}
+Galaxy Z Fold 5|Samsung|{density=3.5,width=1440,height=2560}
+Galaxy Z Fold 5 Pro|Samsung|{density=2.75,width=1440,height=2560}
+Galaxy Z Fold 5 Plus|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy Z Fold 5 Ultra|Samsung|{density=2.75,width=1080,height=2400}
+Galaxy Z Fold 5 4G|Samsung|{density=3.0,width=1080,height=1280}
+Galaxy Z Fold 5 5G|Samsung|{density=3.5,width=1080,height=2560}
+Galaxy Z Fold 6|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy Z Fold 6 Pro|Samsung|{density=3.0,width=1440,height=2560}
+Galaxy Z Fold 6 Plus|Samsung|{density=3.5,width=720,height=2480}
+Galaxy Z Fold 6 Ultra|Samsung|{density=2.75,width=1080,height=1920}
+Galaxy Z Fold 6 4G|Samsung|{density=3.0,width=720,height=2400}
+Galaxy Z Fold 6 5G|Samsung|{density=2.75,width=1080,height=2448}
+Galaxy Z Flip 3|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy Z Flip 3 Pro|Samsung|{density=3.5,width=1080,height=1280}
+Galaxy Z Flip 3 Plus|Samsung|{density=2.75,width=720,height=2448}
+Galaxy Z Flip 3 Ultra|Samsung|{density=3.0,width=720,height=2400}
+Galaxy Z Flip 3 4G|Samsung|{density=3.0,width=720,height=2400}
+Galaxy Z Flip 3 5G|Samsung|{density=3.5,width=1440,height=1280}
+Galaxy Z Flip 4|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy Z Flip 4 Pro|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy Z Flip 4 Plus|Samsung|{density=2.75,width=720,height=1280}
+Galaxy Z Flip 4 Ultra|Samsung|{density=3.0,width=1080,height=1280}
+Galaxy Z Flip 4 4G|Samsung|{density=3.0,width=1440,height=2400}
+Galaxy Z Flip 4 5G|Samsung|{density=2.75,width=1440,height=1280}
+Galaxy Z Flip 5|Samsung|{density=2.75,width=720,height=2400}
+Galaxy Z Flip 5 Pro|Samsung|{density=3.5,width=1440,height=2560}
+Galaxy Z Flip 5 Plus|Samsung|{density=3.0,width=720,height=1920}
+Galaxy Z Flip 5 Ultra|Samsung|{density=2.75,width=1440,height=1280}
+Galaxy Z Flip 5 4G|Samsung|{density=3.0,width=1440,height=2448}
+Galaxy Z Flip 5 5G|Samsung|{density=3.5,width=1080,height=2400}
+Galaxy Z Flip 6|Samsung|{density=2.75,width=1080,height=2400}
+Galaxy Z Flip 6 Pro|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy Z Flip 6 Plus|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy Z Flip 6 Ultra|Samsung|{density=3.0,width=1440,height=1920}
+Galaxy Z Flip 6 4G|Samsung|{density=3.5,width=1440,height=1280}
+Galaxy Z Flip 6 5G|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy A01|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy A01 Pro|Samsung|{density=2.75,width=720,height=2480}
+Galaxy A01 Plus|Samsung|{density=3.0,width=1440,height=1280}
+Galaxy A01 Ultra|Samsung|{density=3.5,width=1440,height=2560}
+Galaxy A01 4G|Samsung|{density=2.75,width=720,height=2280}
+Galaxy A01 5G|Samsung|{density=3.5,width=1440,height=2480}
+Galaxy A02s|Samsung|{density=2.75,width=1440,height=2480}
+Galaxy A02s Pro|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy A02s Plus|Samsung|{density=2.75,width=720,height=2448}
+Galaxy A02s Ultra|Samsung|{density=3.0,width=720,height=1280}
+Galaxy A02s 4G|Samsung|{density=3.5,width=720,height=2280}
+Galaxy A02s 5G|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy A03|Samsung|{density=3.0,width=1440,height=1920}
+Galaxy A03 Pro|Samsung|{density=3.0,width=720,height=2560}
+Galaxy A03 Plus|Samsung|{density=3.5,width=1440,height=2280}
+Galaxy A03 Ultra|Samsung|{density=3.0,width=720,height=2400}
+Galaxy A03 4G|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy A03 5G|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy A04s|Samsung|{density=2.75,width=1440,height=2480}
+Galaxy A04s Pro|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy A04s Plus|Samsung|{density=3.0,width=1440,height=2400}
+Galaxy A04s Ultra|Samsung|{density=2.75,width=1080,height=2560}
+Galaxy A04s 4G|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy A04s 5G|Samsung|{density=3.0,width=1080,height=2280}
+Galaxy A05|Samsung|{density=3.5,width=1440,height=2560}
+Galaxy A05 Pro|Samsung|{density=3.0,width=720,height=2448}
+Galaxy A05 Plus|Samsung|{density=3.0,width=1080,height=2480}
+Galaxy A05 Ultra|Samsung|{density=3.5,width=1080,height=2480}
+Galaxy A05 4G|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy A05 5G|Samsung|{density=3.0,width=1080,height=2280}
+Galaxy A06|Samsung|{density=3.5,width=720,height=1920}
+Galaxy A06 Pro|Samsung|{density=3.5,width=1080,height=1280}
+Galaxy A06 Plus|Samsung|{density=2.75,width=720,height=2448}
+Galaxy A06 Ultra|Samsung|{density=3.0,width=720,height=1280}
+Galaxy A06 4G|Samsung|{density=2.75,width=720,height=2560}
+Galaxy A06 5G|Samsung|{density=2.75,width=720,height=2480}
+Galaxy A10|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy A10 Pro|Samsung|{density=3.5,width=1440,height=2560}
+Galaxy A10 Plus|Samsung|{density=3.5,width=720,height=2480}
+Galaxy A10 Ultra|Samsung|{density=3.5,width=1440,height=2448}
+Galaxy A10 4G|Samsung|{density=2.75,width=1440,height=2448}
+Galaxy A10 5G|Samsung|{density=3.0,width=1440,height=2560}
+Galaxy A11|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy A11 Pro|Samsung|{density=2.75,width=1440,height=2560}
+Galaxy A11 Plus|Samsung|{density=2.75,width=1080,height=2480}
+Galaxy A11 Ultra|Samsung|{density=2.75,width=1440,height=2448}
+Galaxy A11 4G|Samsung|{density=2.75,width=1080,height=2400}
+Galaxy A11 5G|Samsung|{density=3.0,width=1080,height=2560}
+Galaxy A12|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy A12 Pro|Samsung|{density=2.75,width=720,height=1920}
+Galaxy A12 Plus|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy A12 Ultra|Samsung|{density=2.75,width=1080,height=2480}
+Galaxy A12 4G|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy A12 5G|Samsung|{density=3.0,width=1440,height=2480}
+Galaxy A13|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy A13 Pro|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy A13 Plus|Samsung|{density=3.0,width=720,height=2480}
+Galaxy A13 Ultra|Samsung|{density=2.75,width=1440,height=2480}
+Galaxy A13 4G|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy A13 5G|Samsung|{density=3.0,width=1080,height=2448}
+Galaxy A14|Samsung|{density=3.0,width=1080,height=2400}
+Galaxy A14 Pro|Samsung|{density=2.75,width=720,height=1280}
+Galaxy A14 Plus|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy A14 Ultra|Samsung|{density=3.5,width=1440,height=2280}
+Galaxy A14 4G|Samsung|{density=2.75,width=1440,height=2448}
+Galaxy A14 5G|Samsung|{density=3.5,width=1440,height=2448}
+Galaxy A15|Samsung|{density=2.75,width=1080,height=2480}
+Galaxy A15 Pro|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy A15 Plus|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy A15 Ultra|Samsung|{density=2.75,width=720,height=1280}
+Galaxy A15 4G|Samsung|{density=2.75,width=1080,height=2560}
+Galaxy A15 5G|Samsung|{density=3.0,width=1440,height=2448}
+Galaxy A16|Samsung|{density=3.0,width=1440,height=2448}
+Galaxy A16 Pro|Samsung|{density=3.5,width=720,height=2280}
+Galaxy A16 Plus|Samsung|{density=3.0,width=1080,height=2400}
+Galaxy A16 Ultra|Samsung|{density=3.0,width=1080,height=2448}
+Galaxy A16 4G|Samsung|{density=3.5,width=720,height=2400}
+Galaxy A16 5G|Samsung|{density=2.75,width=1080,height=2480}
+Galaxy A20|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy A20 Pro|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy A20 Plus|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy A20 Ultra|Samsung|{density=3.0,width=1440,height=1280}
+Galaxy A20 4G|Samsung|{density=2.75,width=720,height=2560}
+Galaxy A20 5G|Samsung|{density=3.0,width=1080,height=2448}
+Galaxy A21|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy A21 Pro|Samsung|{density=3.0,width=1080,height=2448}
+Galaxy A21 Plus|Samsung|{density=3.0,width=720,height=2400}
+Galaxy A21 Ultra|Samsung|{density=2.75,width=1440,height=2560}
+Galaxy A21 4G|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy A21 5G|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy A22|Samsung|{density=2.75,width=720,height=2400}
+Galaxy A22 Pro|Samsung|{density=3.0,width=1080,height=2560}
+Galaxy A22 Plus|Samsung|{density=3.0,width=720,height=2448}
+Galaxy A22 Ultra|Samsung|{density=3.0,width=1440,height=2560}
+Galaxy A22 4G|Samsung|{density=3.5,width=1080,height=2400}
+Galaxy A22 5G|Samsung|{density=3.0,width=1440,height=1920}
+Galaxy A23|Samsung|{density=2.75,width=720,height=2560}
+Galaxy A23 Pro|Samsung|{density=2.75,width=720,height=1280}
+Galaxy A23 Plus|Samsung|{density=3.5,width=720,height=2400}
+Galaxy A23 Ultra|Samsung|{density=2.75,width=720,height=2400}
+Galaxy A23 4G|Samsung|{density=3.0,width=720,height=1920}
+Galaxy A23 5G|Samsung|{density=2.75,width=1440,height=2480}
+Galaxy A24|Samsung|{density=3.5,width=720,height=1280}
+Galaxy A24 Pro|Samsung|{density=3.5,width=720,height=2560}
+Galaxy A24 Plus|Samsung|{density=3.5,width=1080,height=2280}
+Galaxy A24 Ultra|Samsung|{density=3.0,width=1440,height=2560}
+Galaxy A24 4G|Samsung|{density=2.75,width=720,height=1920}
+Galaxy A24 5G|Samsung|{density=3.0,width=720,height=2480}
+Galaxy A25|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy A25 Pro|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy A25 Plus|Samsung|{density=3.5,width=1080,height=2480}
+Galaxy A25 Ultra|Samsung|{density=3.5,width=1440,height=2560}
+Galaxy A25 4G|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy A25 5G|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy A30s|Samsung|{density=3.5,width=1440,height=1280}
+Galaxy A30s Pro|Samsung|{density=2.75,width=720,height=2480}
+Galaxy A30s Plus|Samsung|{density=3.5,width=1440,height=1280}
+Galaxy A30s Ultra|Samsung|{density=2.75,width=1440,height=1280}
+Galaxy A30s 4G|Samsung|{density=3.0,width=720,height=2448}
+Galaxy A30s 5G|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy A31|Samsung|{density=3.0,width=1440,height=2400}
+Galaxy A31 Pro|Samsung|{density=2.75,width=1440,height=2448}
+Galaxy A31 Plus|Samsung|{density=3.0,width=720,height=2448}
+Galaxy A31 Ultra|Samsung|{density=2.75,width=1080,height=2448}
+Galaxy A31 4G|Samsung|{density=2.75,width=1440,height=1280}
+Galaxy A31 5G|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy A32|Samsung|{density=2.75,width=1440,height=1280}
+Galaxy A32 Pro|Samsung|{density=3.5,width=720,height=2400}
+Galaxy A32 Plus|Samsung|{density=3.5,width=1080,height=2400}
+Galaxy A32 Ultra|Samsung|{density=3.0,width=720,height=1280}
+Galaxy A32 4G|Samsung|{density=3.5,width=720,height=1920}
+Galaxy A32 5G|Samsung|{density=2.75,width=1080,height=2480}
+Galaxy A33|Samsung|{density=2.75,width=1080,height=2448}
+Galaxy A33 Pro|Samsung|{density=3.5,width=1440,height=1280}
+Galaxy A33 Plus|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy A33 Ultra|Samsung|{density=2.75,width=720,height=2448}
+Galaxy A33 4G|Samsung|{density=3.5,width=720,height=2560}
+Galaxy A33 5G|Samsung|{density=3.0,width=720,height=2400}
+Galaxy A34|Samsung|{density=2.75,width=1080,height=1920}
+Galaxy A34 Pro|Samsung|{density=3.0,width=1080,height=2560}
+Galaxy A34 Plus|Samsung|{density=3.0,width=1080,height=2560}
+Galaxy A34 Ultra|Samsung|{density=3.5,width=1080,height=2448}
+Galaxy A34 4G|Samsung|{density=3.5,width=720,height=2448}
+Galaxy A34 5G|Samsung|{density=3.0,width=720,height=2560}
+Galaxy A35|Samsung|{density=3.5,width=1080,height=1280}
+Galaxy A35 Pro|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy A35 Plus|Samsung|{density=3.0,width=1080,height=2480}
+Galaxy A35 Ultra|Samsung|{density=3.5,width=1080,height=2400}
+Galaxy A35 4G|Samsung|{density=2.75,width=1080,height=2560}
+Galaxy A35 5G|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy A40|Samsung|{density=2.75,width=720,height=1920}
+Galaxy A40 Pro|Samsung|{density=3.0,width=1440,height=1280}
+Galaxy A40 Plus|Samsung|{density=2.75,width=720,height=2280}
+Galaxy A40 Ultra|Samsung|{density=2.75,width=720,height=1920}
+Galaxy A40 4G|Samsung|{density=3.0,width=1440,height=2400}
+Galaxy A40 5G|Samsung|{density=3.5,width=720,height=1920}
+Galaxy A41|Samsung|{density=3.5,width=720,height=2480}
+Galaxy A41 Pro|Samsung|{density=3.5,width=1080,height=2400}
+Galaxy A41 Plus|Samsung|{density=2.75,width=1440,height=2560}
+Galaxy A41 Ultra|Samsung|{density=3.5,width=1080,height=2560}
+Galaxy A41 4G|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy A41 5G|Samsung|{density=3.0,width=720,height=2480}
+Galaxy A42|Samsung|{density=2.75,width=720,height=2448}
+Galaxy A42 Pro|Samsung|{density=3.5,width=1440,height=2280}
+Galaxy A42 Plus|Samsung|{density=3.0,width=1080,height=1280}
+Galaxy A42 Ultra|Samsung|{density=3.0,width=720,height=2400}
+Galaxy A42 4G|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy A42 5G|Samsung|{density=3.5,width=720,height=2560}
+Galaxy A51|Samsung|{density=3.0,width=1080,height=1280}
+Galaxy A51 Pro|Samsung|{density=3.5,width=1440,height=1280}
+Galaxy A51 Plus|Samsung|{density=2.75,width=1440,height=1280}
+Galaxy A51 Ultra|Samsung|{density=3.5,width=720,height=2448}
+Galaxy A51 4G|Samsung|{density=3.5,width=1440,height=2448}
+Galaxy A51 5G|Samsung|{density=3.5,width=1080,height=1280}
+Galaxy A52|Samsung|{density=2.75,width=720,height=2448}
+Galaxy A52 Pro|Samsung|{density=3.0,width=720,height=2480}
+Galaxy A52 Plus|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy A52 Ultra|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy A52 4G|Samsung|{density=2.75,width=720,height=2280}
+Galaxy A52 5G|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy A53|Samsung|{density=3.0,width=720,height=2560}
+Galaxy A53 Pro|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy A53 Plus|Samsung|{density=3.0,width=1080,height=2400}
+Galaxy A53 Ultra|Samsung|{density=3.5,width=1440,height=2480}
+Galaxy A53 4G|Samsung|{density=3.0,width=720,height=1920}
+Galaxy A53 5G|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy A54|Samsung|{density=3.0,width=1080,height=2448}
+Galaxy A54 Pro|Samsung|{density=3.0,width=1080,height=2480}
+Galaxy A54 Plus|Samsung|{density=3.0,width=1080,height=1280}
+Galaxy A54 Ultra|Samsung|{density=3.0,width=1440,height=1280}
+Galaxy A54 4G|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy A54 5G|Samsung|{density=3.5,width=720,height=2280}
+Galaxy A55|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy A55 Pro|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy A55 Plus|Samsung|{density=2.75,width=720,height=2280}
+Galaxy A55 Ultra|Samsung|{density=2.75,width=1440,height=2448}
+Galaxy A55 4G|Samsung|{density=2.75,width=1440,height=2480}
+Galaxy A55 5G|Samsung|{density=2.75,width=1440,height=2560}
+Galaxy A71|Samsung|{density=2.75,width=1440,height=2560}
+Galaxy A71 Pro|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy A71 Plus|Samsung|{density=3.0,width=720,height=2400}
+Galaxy A71 Ultra|Samsung|{density=3.5,width=1080,height=2560}
+Galaxy A71 4G|Samsung|{density=2.75,width=720,height=2448}
+Galaxy A71 5G|Samsung|{density=2.75,width=720,height=1920}
+Galaxy A72|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy A72 Pro|Samsung|{density=3.5,width=720,height=2400}
+Galaxy A72 Plus|Samsung|{density=3.0,width=1440,height=2448}
+Galaxy A72 Ultra|Samsung|{density=3.5,width=1440,height=1280}
+Galaxy A72 4G|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy A72 5G|Samsung|{density=3.0,width=720,height=2560}
+Galaxy A73|Samsung|{density=3.0,width=1440,height=2480}
+Galaxy A73 Pro|Samsung|{density=3.0,width=720,height=2400}
+Galaxy A73 Plus|Samsung|{density=3.5,width=720,height=2400}
+Galaxy A73 Ultra|Samsung|{density=3.0,width=720,height=2448}
+Galaxy A73 4G|Samsung|{density=2.75,width=1080,height=2560}
+Galaxy A73 5G|Samsung|{density=2.75,width=720,height=2480}
+Galaxy A80|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy A80 Pro|Samsung|{density=3.5,width=1080,height=2280}
+Galaxy A80 Plus|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy A80 Ultra|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy A80 4G|Samsung|{density=2.75,width=1440,height=2560}
+Galaxy A80 5G|Samsung|{density=3.5,width=720,height=2280}
+Galaxy A90|Samsung|{density=3.0,width=720,height=2448}
+Galaxy A90 Pro|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy A90 Plus|Samsung|{density=2.75,width=720,height=2448}
+Galaxy A90 Ultra|Samsung|{density=2.75,width=720,height=2280}
+Galaxy A90 4G|Samsung|{density=3.5,width=720,height=2560}
+Galaxy A90 5G|Samsung|{density=2.75,width=1080,height=2400}
+Galaxy M01|Samsung|{density=2.75,width=1440,height=2480}
+Galaxy M01 Pro|Samsung|{density=2.75,width=720,height=1280}
+Galaxy M01 Plus|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy M01 Ultra|Samsung|{density=3.5,width=720,height=2400}
+Galaxy M01 4G|Samsung|{density=2.75,width=1440,height=2560}
+Galaxy M01 5G|Samsung|{density=3.0,width=1080,height=2480}
+Galaxy M02s|Samsung|{density=3.0,width=720,height=2280}
+Galaxy M02s Pro|Samsung|{density=2.75,width=720,height=2280}
+Galaxy M02s Plus|Samsung|{density=3.0,width=720,height=1920}
+Galaxy M02s Ultra|Samsung|{density=2.75,width=1440,height=2448}
+Galaxy M02s 4G|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy M02s 5G|Samsung|{density=3.5,width=720,height=2280}
+Galaxy M11|Samsung|{density=3.0,width=720,height=1920}
+Galaxy M11 Pro|Samsung|{density=3.0,width=1080,height=2280}
+Galaxy M11 Plus|Samsung|{density=3.5,width=1080,height=1280}
+Galaxy M11 Ultra|Samsung|{density=3.5,width=1080,height=1280}
+Galaxy M11 4G|Samsung|{density=3.0,width=1080,height=2560}
+Galaxy M11 5G|Samsung|{density=3.5,width=1080,height=2560}
+Galaxy M12|Samsung|{density=2.75,width=1080,height=2448}
+Galaxy M12 Pro|Samsung|{density=3.0,width=720,height=2448}
+Galaxy M12 Plus|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy M12 Ultra|Samsung|{density=2.75,width=720,height=2448}
+Galaxy M12 4G|Samsung|{density=3.0,width=1080,height=1280}
+Galaxy M12 5G|Samsung|{density=2.75,width=1080,height=2448}
+Galaxy M13|Samsung|{density=2.75,width=1080,height=2448}
+Galaxy M13 Pro|Samsung|{density=3.0,width=1440,height=2448}
+Galaxy M13 Plus|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy M13 Ultra|Samsung|{density=3.5,width=1440,height=2448}
+Galaxy M13 4G|Samsung|{density=2.75,width=1440,height=2448}
+Galaxy M13 5G|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy M14|Samsung|{density=3.5,width=1440,height=2480}
+Galaxy M14 Pro|Samsung|{density=3.0,width=1440,height=2448}
+Galaxy M14 Plus|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy M14 Ultra|Samsung|{density=3.5,width=720,height=2560}
+Galaxy M14 4G|Samsung|{density=3.5,width=720,height=2560}
+Galaxy M14 5G|Samsung|{density=2.75,width=1080,height=2448}
+Galaxy M15|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy M15 Pro|Samsung|{density=2.75,width=720,height=2560}
+Galaxy M15 Plus|Samsung|{density=2.75,width=1080,height=2480}
+Galaxy M15 Ultra|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy M15 4G|Samsung|{density=3.0,width=1440,height=2400}
+Galaxy M15 5G|Samsung|{density=3.5,width=1080,height=1280}
+Galaxy M21|Samsung|{density=2.75,width=720,height=2560}
+Galaxy M21 Pro|Samsung|{density=2.75,width=720,height=2480}
+Galaxy M21 Plus|Samsung|{density=3.5,width=1440,height=2280}
+Galaxy M21 Ultra|Samsung|{density=3.0,width=1080,height=1280}
+Galaxy M21 4G|Samsung|{density=2.75,width=1440,height=1280}
+Galaxy M21 5G|Samsung|{density=3.0,width=1440,height=1280}
+Galaxy M22|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy M22 Pro|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy M22 Plus|Samsung|{density=2.75,width=720,height=1280}
+Galaxy M22 Ultra|Samsung|{density=3.0,width=720,height=2448}
+Galaxy M22 4G|Samsung|{density=2.75,width=720,height=2280}
+Galaxy M22 5G|Samsung|{density=3.5,width=1440,height=2448}
+Galaxy M23|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy M23 Pro|Samsung|{density=2.75,width=720,height=2480}
+Galaxy M23 Plus|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy M23 Ultra|Samsung|{density=3.0,width=720,height=2280}
+Galaxy M23 4G|Samsung|{density=2.75,width=1440,height=2560}
+Galaxy M23 5G|Samsung|{density=3.5,width=1080,height=2448}
+Galaxy M31|Samsung|{density=3.0,width=720,height=2280}
+Galaxy M31 Pro|Samsung|{density=2.75,width=1080,height=2560}
+Galaxy M31 Plus|Samsung|{density=3.5,width=1080,height=2400}
+Galaxy M31 Ultra|Samsung|{density=3.5,width=1080,height=2560}
+Galaxy M31 4G|Samsung|{density=3.0,width=1080,height=2480}
+Galaxy M31 5G|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy M32|Samsung|{density=3.5,width=720,height=1280}
+Galaxy M32 Pro|Samsung|{density=3.0,width=1440,height=2480}
+Galaxy M32 Plus|Samsung|{density=3.5,width=1440,height=2560}
+Galaxy M32 Ultra|Samsung|{density=2.75,width=720,height=2480}
+Galaxy M32 4G|Samsung|{density=3.5,width=1080,height=2280}
+Galaxy M32 5G|Samsung|{density=2.75,width=720,height=2280}
+Galaxy M33|Samsung|{density=2.75,width=1080,height=2560}
+Galaxy M33 Pro|Samsung|{density=3.5,width=1440,height=1280}
+Galaxy M33 Plus|Samsung|{density=3.5,width=1080,height=2280}
+Galaxy M33 Ultra|Samsung|{density=3.5,width=1440,height=1280}
+Galaxy M33 4G|Samsung|{density=2.75,width=720,height=1280}
+Galaxy M33 5G|Samsung|{density=3.0,width=1080,height=2400}
+Galaxy M34|Samsung|{density=3.0,width=720,height=2480}
+Galaxy M34 Pro|Samsung|{density=3.5,width=1440,height=2480}
+Galaxy M34 Plus|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy M34 Ultra|Samsung|{density=2.75,width=720,height=1280}
+Galaxy M34 4G|Samsung|{density=3.5,width=1080,height=1280}
+Galaxy M34 5G|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy M35|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy M35 Pro|Samsung|{density=3.0,width=720,height=2480}
+Galaxy M35 Plus|Samsung|{density=3.0,width=1080,height=2448}
+Galaxy M35 Ultra|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy M35 4G|Samsung|{density=2.75,width=1440,height=2448}
+Galaxy M35 5G|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy M51|Samsung|{density=3.0,width=1440,height=2480}
+Galaxy M51 Pro|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy M51 Plus|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy M51 Ultra|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy M51 4G|Samsung|{density=3.0,width=1080,height=2400}
+Galaxy M51 5G|Samsung|{density=2.75,width=720,height=2400}
+Galaxy M52|Samsung|{density=3.5,width=720,height=2560}
+Galaxy M52 Pro|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy M52 Plus|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy M52 Ultra|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy M52 4G|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy M52 5G|Samsung|{density=2.75,width=1080,height=2448}
+Galaxy M53|Samsung|{density=2.75,width=720,height=2560}
+Galaxy M53 Pro|Samsung|{density=3.0,width=1080,height=2448}
+Galaxy M53 Plus|Samsung|{density=3.5,width=1080,height=2400}
+Galaxy M53 Ultra|Samsung|{density=3.5,width=720,height=2480}
+Galaxy M53 4G|Samsung|{density=2.75,width=720,height=1920}
+Galaxy M53 5G|Samsung|{density=3.5,width=1440,height=2400}
+Galaxy M54|Samsung|{density=2.75,width=1440,height=2480}
+Galaxy M54 Pro|Samsung|{density=3.0,width=1440,height=1920}
+Galaxy M54 Plus|Samsung|{density=3.5,width=1080,height=2280}
+Galaxy M54 Ultra|Samsung|{density=3.0,width=720,height=2560}
+Galaxy M54 4G|Samsung|{density=3.0,width=1440,height=2400}
+Galaxy M54 5G|Samsung|{density=3.5,width=1440,height=2448}
+Galaxy M55|Samsung|{density=3.5,width=1080,height=2280}
+Galaxy M55 Pro|Samsung|{density=3.0,width=720,height=1280}
+Galaxy M55 Plus|Samsung|{density=2.75,width=1080,height=2448}
+Galaxy M55 Ultra|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy M55 4G|Samsung|{density=2.75,width=720,height=2448}
+Galaxy M55 5G|Samsung|{density=3.5,width=1080,height=2400}
+Galaxy F12|Samsung|{density=3.0,width=1440,height=2448}
+Galaxy F12 Pro|Samsung|{density=3.0,width=720,height=1280}
+Galaxy F12 Plus|Samsung|{density=2.75,width=1080,height=2560}
+Galaxy F12 Ultra|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy F12 4G|Samsung|{density=2.75,width=1440,height=2560}
+Galaxy F12 5G|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy F13|Samsung|{density=3.0,width=1440,height=1280}
+Galaxy F13 Pro|Samsung|{density=3.0,width=1440,height=2560}
+Galaxy F13 Plus|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy F13 Ultra|Samsung|{density=2.75,width=1080,height=2560}
+Galaxy F13 4G|Samsung|{density=3.0,width=720,height=2480}
+Galaxy F13 5G|Samsung|{density=3.5,width=1080,height=2560}
+Galaxy F14|Samsung|{density=3.5,width=1080,height=2480}
+Galaxy F14 Pro|Samsung|{density=3.5,width=720,height=2448}
+Galaxy F14 Plus|Samsung|{density=3.5,width=1080,height=2448}
+Galaxy F14 Ultra|Samsung|{density=2.75,width=720,height=1920}
+Galaxy F14 4G|Samsung|{density=3.5,width=1440,height=2280}
+Galaxy F14 5G|Samsung|{density=2.75,width=1080,height=1920}
+Galaxy F15|Samsung|{density=2.75,width=720,height=1920}
+Galaxy F15 Pro|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy F15 Plus|Samsung|{density=3.0,width=720,height=2280}
+Galaxy F15 Ultra|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy F15 4G|Samsung|{density=2.75,width=720,height=1920}
+Galaxy F15 5G|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy F22|Samsung|{density=3.0,width=1080,height=2560}
+Galaxy F22 Pro|Samsung|{density=3.5,width=1440,height=2560}
+Galaxy F22 Plus|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy F22 Ultra|Samsung|{density=3.0,width=1080,height=2560}
+Galaxy F22 4G|Samsung|{density=2.75,width=720,height=1920}
+Galaxy F22 5G|Samsung|{density=3.0,width=1440,height=2480}
+Galaxy F23|Samsung|{density=2.75,width=1440,height=2560}
+Galaxy F23 Pro|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy F23 Plus|Samsung|{density=3.5,width=720,height=2448}
+Galaxy F23 Ultra|Samsung|{density=2.75,width=1440,height=2448}
+Galaxy F23 4G|Samsung|{density=3.0,width=720,height=1920}
+Galaxy F23 5G|Samsung|{density=3.0,width=1080,height=2448}
+Galaxy F34|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy F34 Pro|Samsung|{density=2.75,width=1080,height=2480}
+Galaxy F34 Plus|Samsung|{density=2.75,width=1080,height=2560}
+Galaxy F34 Ultra|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy F34 4G|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy F34 5G|Samsung|{density=2.75,width=720,height=1280}
+Galaxy F41|Samsung|{density=3.5,width=720,height=1280}
+Galaxy F41 Pro|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy F41 Plus|Samsung|{density=3.0,width=720,height=2448}
+Galaxy F41 Ultra|Samsung|{density=3.5,width=1440,height=2448}
+Galaxy F41 4G|Samsung|{density=3.5,width=1440,height=1280}
+Galaxy F41 5G|Samsung|{density=2.75,width=720,height=1280}
+Galaxy F42|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy F42 Pro|Samsung|{density=2.75,width=720,height=2560}
+Galaxy F42 Plus|Samsung|{density=2.75,width=1080,height=2448}
+Galaxy F42 Ultra|Samsung|{density=3.5,width=1080,height=2480}
+Galaxy F42 4G|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy F42 5G|Samsung|{density=3.0,width=1440,height=2480}
+Galaxy F54|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy F54 Pro|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy F54 Plus|Samsung|{density=3.0,width=720,height=1920}
+Galaxy F54 Ultra|Samsung|{density=3.0,width=1080,height=2448}
+Galaxy F54 4G|Samsung|{density=3.0,width=1440,height=2480}
+Galaxy F54 5G|Samsung|{density=3.5,width=1440,height=2480}
+Galaxy F55|Samsung|{density=3.0,width=1440,height=1280}
+Galaxy F55 Pro|Samsung|{density=2.75,width=720,height=2480}
+Galaxy F55 Plus|Samsung|{density=3.5,width=720,height=2480}
+Galaxy F55 Ultra|Samsung|{density=3.5,width=1080,height=2280}
+Galaxy F55 4G|Samsung|{density=2.75,width=720,height=2560}
+Galaxy F55 5G|Samsung|{density=3.0,width=1440,height=2560}
+Galaxy J2|Samsung|{density=3.5,width=1080,height=2560}
+Galaxy J2 Pro|Samsung|{density=3.5,width=1080,height=2448}
+Galaxy J2 Plus|Samsung|{density=3.5,width=1440,height=2448}
+Galaxy J2 Ultra|Samsung|{density=3.0,width=1440,height=2560}
+Galaxy J2 4G|Samsung|{density=3.5,width=720,height=2480}
+Galaxy J2 5G|Samsung|{density=3.5,width=720,height=2280}
+Galaxy J4|Samsung|{density=3.5,width=720,height=2280}
+Galaxy J4 Pro|Samsung|{density=2.75,width=1080,height=1920}
+Galaxy J4 Plus|Samsung|{density=2.75,width=1440,height=2448}
+Galaxy J4 Ultra|Samsung|{density=2.75,width=1440,height=2448}
+Galaxy J4 4G|Samsung|{density=2.75,width=1080,height=2480}
+Galaxy J4 5G|Samsung|{density=3.0,width=1440,height=1280}
+Galaxy J6|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy J6 Pro|Samsung|{density=3.5,width=720,height=2280}
+Galaxy J6 Plus|Samsung|{density=2.75,width=720,height=2480}
+Galaxy J6 Ultra|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy J6 4G|Samsung|{density=3.5,width=1080,height=2480}
+Galaxy J6 5G|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy J7|Samsung|{density=3.5,width=720,height=2400}
+Galaxy J7 Pro|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy J7 Plus|Samsung|{density=3.5,width=1080,height=1920}
+Galaxy J7 Ultra|Samsung|{density=3.5,width=720,height=2480}
+Galaxy J7 4G|Samsung|{density=3.0,width=1440,height=2560}
+Galaxy J7 5G|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy J8|Samsung|{density=3.5,width=720,height=2560}
+Galaxy J8 Pro|Samsung|{density=3.0,width=720,height=2280}
+Galaxy J8 Plus|Samsung|{density=3.0,width=1080,height=2480}
+Galaxy J8 Ultra|Samsung|{density=3.0,width=1080,height=1920}
+Galaxy J8 4G|Samsung|{density=3.0,width=1080,height=2400}
+Galaxy J8 5G|Samsung|{density=2.75,width=720,height=2560}
+Galaxy Note 8|Samsung|{density=3.5,width=1080,height=2480}
+Galaxy Note 8 Pro|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy Note 8 Plus|Samsung|{density=2.75,width=720,height=1280}
+Galaxy Note 8 Ultra|Samsung|{density=2.75,width=1080,height=2280}
+Galaxy Note 8 4G|Samsung|{density=2.75,width=1080,height=2400}
+Galaxy Note 8 5G|Samsung|{density=2.75,width=720,height=2280}
+Galaxy Note 9|Samsung|{density=3.0,width=720,height=2560}
+Galaxy Note 9 Pro|Samsung|{density=3.5,width=1080,height=2448}
+Galaxy Note 9 Plus|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy Note 9 Ultra|Samsung|{density=3.5,width=720,height=2280}
+Galaxy Note 9 4G|Samsung|{density=3.0,width=720,height=2448}
+Galaxy Note 9 5G|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy Note 10|Samsung|{density=3.0,width=720,height=1920}
+Galaxy Note 10 Pro|Samsung|{density=3.5,width=1440,height=2448}
+Galaxy Note 10 Plus|Samsung|{density=3.0,width=1080,height=2480}
+Galaxy Note 10 Ultra|Samsung|{density=3.5,width=1440,height=2480}
+Galaxy Note 10 4G|Samsung|{density=3.5,width=720,height=2480}
+Galaxy Note 10 5G|Samsung|{density=3.0,width=720,height=2400}
+Galaxy Note 20|Samsung|{density=3.0,width=720,height=1920}
+Galaxy Note 20 Pro|Samsung|{density=2.75,width=720,height=2480}
+Galaxy Note 20 Plus|Samsung|{density=2.75,width=1440,height=2400}
+Galaxy Note 20 Ultra|Samsung|{density=3.0,width=720,height=2480}
+Galaxy Note 20 4G|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy Note 20 5G|Samsung|{density=3.0,width=1440,height=1280}
+Galaxy Note 20 Ultra|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy Note 20 Ultra 4G|Samsung|{density=3.5,width=720,height=2448}
+Galaxy Note 20 Ultra 5G|Samsung|{density=3.0,width=1080,height=2448}
+Galaxy Xcover 5|Samsung|{density=3.5,width=720,height=2448}
+Galaxy Xcover 5 Pro|Samsung|{density=3.5,width=1440,height=2448}
+Galaxy Xcover 5 Plus|Samsung|{density=3.0,width=1440,height=2560}
+Galaxy Xcover 5 Ultra|Samsung|{density=3.5,width=720,height=2448}
+Galaxy Xcover 5 4G|Samsung|{density=3.5,width=1440,height=1920}
+Galaxy Xcover 5 5G|Samsung|{density=2.75,width=1080,height=1920}
+Galaxy Xcover 6 Pro|Samsung|{density=3.0,width=1440,height=2480}
+Galaxy Xcover 6 Pro 4G|Samsung|{density=2.75,width=1080,height=1280}
+Galaxy Xcover 6 Pro 5G|Samsung|{density=3.0,width=1440,height=2280}
+Galaxy Xcover 7|Samsung|{density=3.0,width=720,height=2400}
+Galaxy Xcover 7 Pro|Samsung|{density=2.75,width=720,height=2448}
+Galaxy Xcover 7 Plus|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy Xcover 7 Ultra|Samsung|{density=3.0,width=1080,height=2400}
+Galaxy Xcover 7 4G|Samsung|{density=2.75,width=1440,height=2280}
+Galaxy Xcover 7 5G|Samsung|{density=2.75,width=720,height=2280}
+iPhone 6|Apple|{density=3.5,width=1440,height=2480}
+iPhone 6 Pro|Apple|{density=3.5,width=720,height=2400}
+iPhone 6 Plus|Apple|{density=3.5,width=1080,height=2280}
+iPhone 6 Ultra|Apple|{density=2.75,width=720,height=2448}
+iPhone 6 4G|Apple|{density=3.0,width=720,height=1280}
+iPhone 6 5G|Apple|{density=3.5,width=720,height=1920}
+iPhone 6 Plus|Apple|{density=3.0,width=720,height=2480}
+iPhone 6 Plus 4G|Apple|{density=3.0,width=720,height=1920}
+iPhone 6 Plus 5G|Apple|{density=2.75,width=720,height=2560}
+iPhone 6s|Apple|{density=3.0,width=720,height=1280}
+iPhone 6s Pro|Apple|{density=2.75,width=720,height=2560}
+iPhone 6s Plus|Apple|{density=3.0,width=1440,height=2448}
+iPhone 6s Ultra|Apple|{density=2.75,width=720,height=2280}
+iPhone 6s 4G|Apple|{density=3.0,width=1080,height=2400}
+iPhone 6s 5G|Apple|{density=3.0,width=1080,height=1920}
+iPhone 6s Plus|Apple|{density=2.75,width=1080,height=2480}
+iPhone 6s Plus 4G|Apple|{density=2.75,width=1440,height=2400}
+iPhone 6s Plus 5G|Apple|{density=3.5,width=1080,height=1920}
+iPhone 7|Apple|{density=3.0,width=720,height=1920}
+iPhone 7 Pro|Apple|{density=3.0,width=1440,height=2448}
+iPhone 7 Plus|Apple|{density=2.75,width=720,height=2480}
+iPhone 7 Ultra|Apple|{density=3.5,width=720,height=2448}
+iPhone 7 4G|Apple|{density=2.75,width=720,height=2448}
+iPhone 7 5G|Apple|{density=2.75,width=720,height=1280}
+iPhone 7 Plus|Apple|{density=3.0,width=1440,height=2280}
+iPhone 7 Plus 4G|Apple|{density=3.5,width=1440,height=2400}
+iPhone 7 Plus 5G|Apple|{density=2.75,width=720,height=2480}
+iPhone 8|Apple|{density=3.5,width=1080,height=2280}
+iPhone 8 Pro|Apple|{density=3.0,width=720,height=2560}
+iPhone 8 Plus|Apple|{density=3.5,width=1440,height=2560}
+iPhone 8 Ultra|Apple|{density=2.75,width=1080,height=1280}
+iPhone 8 4G|Apple|{density=2.75,width=1080,height=2280}
+iPhone 8 5G|Apple|{density=3.0,width=720,height=1280}
+iPhone 8 Plus|Apple|{density=3.5,width=1080,height=1920}
+iPhone 8 Plus 4G|Apple|{density=2.75,width=1440,height=2560}
+iPhone 8 Plus 5G|Apple|{density=3.0,width=1440,height=1920}
+iPhone X|Apple|{density=2.75,width=1440,height=1920}
+iPhone X Pro|Apple|{density=3.0,width=1080,height=2560}
+iPhone X Plus|Apple|{density=2.75,width=1080,height=2560}
+iPhone X Ultra|Apple|{density=3.5,width=720,height=1920}
+iPhone X 4G|Apple|{density=2.75,width=1080,height=2560}
+iPhone X 5G|Apple|{density=2.75,width=720,height=2448}
+iPhone XR|Apple|{density=2.75,width=1080,height=2400}
+iPhone XR Pro|Apple|{density=3.5,width=720,height=2560}
+iPhone XR Plus|Apple|{density=3.5,width=720,height=1280}
+iPhone XR Ultra|Apple|{density=3.0,width=720,height=1280}
+iPhone XR 4G|Apple|{density=3.0,width=1440,height=2448}
+iPhone XR 5G|Apple|{density=2.75,width=1440,height=2400}
+iPhone XS|Apple|{density=2.75,width=720,height=1920}
+iPhone XS Pro|Apple|{density=3.0,width=1440,height=2480}
+iPhone XS Plus|Apple|{density=3.5,width=1440,height=2480}
+iPhone XS Ultra|Apple|{density=3.5,width=720,height=1280}
+iPhone XS 4G|Apple|{density=2.75,width=1080,height=2448}
+iPhone XS 5G|Apple|{density=2.75,width=1080,height=2448}
+iPhone XS Max|Apple|{density=2.75,width=720,height=2560}
+iPhone XS Max Pro|Apple|{density=2.75,width=1080,height=1920}
+iPhone XS Max Plus|Apple|{density=2.75,width=1080,height=2400}
+iPhone XS Max Ultra|Apple|{density=3.5,width=720,height=1920}
+iPhone XS Max 4G|Apple|{density=3.5,width=720,height=2448}
+iPhone XS Max 5G|Apple|{density=3.0,width=720,height=2560}
+iPhone 11|Apple|{density=2.75,width=1440,height=2448}
+iPhone 11 Pro|Apple|{density=3.5,width=720,height=2400}
+iPhone 11 Plus|Apple|{density=2.75,width=720,height=1920}
+iPhone 11 Ultra|Apple|{density=3.5,width=720,height=2400}
+iPhone 11 4G|Apple|{density=3.0,width=1080,height=2560}
+iPhone 11 5G|Apple|{density=2.75,width=720,height=1280}
+iPhone 11 Pro|Apple|{density=3.5,width=720,height=2400}
+iPhone 11 Pro 4G|Apple|{density=3.0,width=1440,height=1280}
+iPhone 11 Pro 5G|Apple|{density=3.5,width=720,height=2480}
+iPhone 11 Pro Max|Apple|{density=3.5,width=720,height=1280}
+iPhone 11 Pro Max 4G|Apple|{density=2.75,width=1440,height=1280}
+iPhone 11 Pro Max 5G|Apple|{density=2.75,width=720,height=2560}
+iPhone SE (2nd gen)|Apple|{density=2.75,width=720,height=1920}
+iPhone SE (2nd gen) Pro|Apple|{density=2.75,width=1080,height=1920}
+iPhone SE (2nd gen) Plus|Apple|{density=3.0,width=1080,height=2280}
+iPhone SE (2nd gen) Ultra|Apple|{density=3.5,width=1080,height=2400}
+iPhone SE (2nd gen) 4G|Apple|{density=3.5,width=1440,height=2400}
+iPhone SE (2nd gen) 5G|Apple|{density=3.0,width=720,height=2448}
+iPhone SE (3rd gen)|Apple|{density=3.0,width=1440,height=2400}
+iPhone SE (3rd gen) Pro|Apple|{density=2.75,width=1440,height=2560}
+iPhone SE (3rd gen) Plus|Apple|{density=2.75,width=1080,height=1920}
+iPhone SE (3rd gen) Ultra|Apple|{density=3.5,width=720,height=2400}
+iPhone SE (3rd gen) 4G|Apple|{density=3.5,width=720,height=2280}
+iPhone SE (3rd gen) 5G|Apple|{density=3.5,width=720,height=2280}
+iPhone 12|Apple|{density=3.0,width=1440,height=2400}
+iPhone 12 Pro|Apple|{density=3.0,width=1440,height=2560}
+iPhone 12 Plus|Apple|{density=3.0,width=720,height=1920}
+iPhone 12 Ultra|Apple|{density=3.0,width=720,height=2480}
+iPhone 12 4G|Apple|{density=3.0,width=720,height=2480}
+iPhone 12 5G|Apple|{density=3.5,width=1080,height=2448}
+iPhone 12 mini|Apple|{density=3.0,width=1440,height=2280}
+iPhone 12 mini Pro|Apple|{density=3.0,width=1080,height=1920}
+iPhone 12 mini Plus|Apple|{density=3.0,width=1440,height=2448}
+iPhone 12 mini Ultra|Apple|{density=2.75,width=1440,height=2400}
+iPhone 12 mini 4G|Apple|{density=3.0,width=720,height=1280}
+iPhone 12 mini 5G|Apple|{density=2.75,width=1080,height=1280}
+iPhone 12 Pro|Apple|{density=3.5,width=1440,height=2448}
+iPhone 12 Pro 4G|Apple|{density=2.75,width=1080,height=2480}
+iPhone 12 Pro 5G|Apple|{density=2.75,width=720,height=2280}
+iPhone 12 Pro Max|Apple|{density=3.5,width=1080,height=1920}
+iPhone 12 Pro Max 4G|Apple|{density=3.0,width=1080,height=1920}
+iPhone 12 Pro Max 5G|Apple|{density=3.0,width=720,height=2400}
+iPhone 13|Apple|{density=3.5,width=720,height=2400}
+iPhone 13 Pro|Apple|{density=3.5,width=1440,height=2560}
+iPhone 13 Plus|Apple|{density=2.75,width=1080,height=2560}
+iPhone 13 Ultra|Apple|{density=2.75,width=1440,height=2560}
+iPhone 13 4G|Apple|{density=3.0,width=1440,height=1920}
+iPhone 13 5G|Apple|{density=2.75,width=720,height=2280}
+iPhone 13 mini|Apple|{density=3.0,width=720,height=2280}
+iPhone 13 mini Pro|Apple|{density=3.5,width=1080,height=2560}
+iPhone 13 mini Plus|Apple|{density=3.5,width=720,height=1280}
+iPhone 13 mini Ultra|Apple|{density=2.75,width=1440,height=2400}
+iPhone 13 mini 4G|Apple|{density=2.75,width=1080,height=2448}
+iPhone 13 mini 5G|Apple|{density=3.0,width=720,height=2560}
+iPhone 13 Pro|Apple|{density=2.75,width=720,height=2448}
+iPhone 13 Pro 4G|Apple|{density=3.0,width=1080,height=2480}
+iPhone 13 Pro 5G|Apple|{density=3.5,width=720,height=1920}
+iPhone 13 Pro Max|Apple|{density=2.75,width=1440,height=2448}
+iPhone 13 Pro Max 4G|Apple|{density=2.75,width=720,height=1920}
+iPhone 13 Pro Max 5G|Apple|{density=2.75,width=1440,height=1920}
+iPhone 14|Apple|{density=3.5,width=720,height=1280}
+iPhone 14 Pro|Apple|{density=2.75,width=720,height=2560}
+iPhone 14 Plus|Apple|{density=2.75,width=720,height=2480}
+iPhone 14 Ultra|Apple|{density=3.5,width=1080,height=2560}
+iPhone 14 4G|Apple|{density=3.0,width=1080,height=2280}
+iPhone 14 5G|Apple|{density=3.0,width=1080,height=2280}
+iPhone 14 Plus|Apple|{density=3.5,width=1080,height=2560}
+iPhone 14 Plus 4G|Apple|{density=3.0,width=720,height=2280}
+iPhone 14 Plus 5G|Apple|{density=3.0,width=1440,height=2400}
+iPhone 14 Pro|Apple|{density=3.0,width=1440,height=2280}
+iPhone 14 Pro 4G|Apple|{density=3.5,width=720,height=2400}
+iPhone 14 Pro 5G|Apple|{density=3.5,width=1080,height=2400}
+iPhone 14 Pro Max|Apple|{density=3.5,width=720,height=1920}
+iPhone 14 Pro Max 4G|Apple|{density=3.5,width=1440,height=2560}
+iPhone 14 Pro Max 5G|Apple|{density=3.5,width=1080,height=2480}
+iPhone 15|Apple|{density=2.75,width=720,height=1280}
+iPhone 15 Pro|Apple|{density=2.75,width=1080,height=2480}
+iPhone 15 Plus|Apple|{density=3.5,width=720,height=1280}
+iPhone 15 Ultra|Apple|{density=2.75,width=1080,height=1280}
+iPhone 15 4G|Apple|{density=3.5,width=1080,height=2560}
+iPhone 15 5G|Apple|{density=3.5,width=1440,height=1920}
+iPhone 15 Plus|Apple|{density=3.0,width=1440,height=2480}
+iPhone 15 Plus 4G|Apple|{density=3.0,width=1440,height=2560}
+iPhone 15 Plus 5G|Apple|{density=3.0,width=1440,height=2560}
+iPhone 15 Pro|Apple|{density=3.5,width=1080,height=1280}
+iPhone 15 Pro 4G|Apple|{density=3.5,width=1440,height=2560}
+iPhone 15 Pro 5G|Apple|{density=3.5,width=1080,height=2448}
+iPhone 15 Pro Max|Apple|{density=3.0,width=1080,height=1280}
+iPhone 15 Pro Max 4G|Apple|{density=3.5,width=720,height=2400}
+iPhone 15 Pro Max 5G|Apple|{density=2.75,width=1080,height=2448}
+iPhone 16|Apple|{density=2.75,width=720,height=2480}
+iPhone 16 Pro|Apple|{density=3.0,width=1440,height=2480}
+iPhone 16 Plus|Apple|{density=2.75,width=1440,height=2280}
+iPhone 16 Ultra|Apple|{density=3.0,width=720,height=2480}
+iPhone 16 4G|Apple|{density=3.5,width=1080,height=1280}
+iPhone 16 5G|Apple|{density=3.5,width=1440,height=2448}
+iPhone 16 Plus|Apple|{density=3.0,width=1440,height=2280}
+iPhone 16 Plus 4G|Apple|{density=2.75,width=1440,height=2448}
+iPhone 16 Plus 5G|Apple|{density=3.5,width=1080,height=2480}
+iPhone 16 Pro|Apple|{density=2.75,width=1080,height=2480}
+iPhone 16 Pro 4G|Apple|{density=2.75,width=720,height=2400}
+iPhone 16 Pro 5G|Apple|{density=2.75,width=1080,height=2448}
+iPhone 16 Pro Max|Apple|{density=2.75,width=1440,height=1280}
+iPhone 16 Pro Max 4G|Apple|{density=3.0,width=720,height=2560}
+iPhone 16 Pro Max 5G|Apple|{density=3.5,width=720,height=2280}
+iPhone 17|Apple|{density=2.75,width=720,height=2280}
+iPhone 17 Pro|Apple|{density=3.0,width=1080,height=2560}
+iPhone 17 Plus|Apple|{density=3.5,width=1080,height=2400}
+iPhone 17 Ultra|Apple|{density=2.75,width=720,height=1920}
+iPhone 17 4G|Apple|{density=2.75,width=1080,height=2448}
+iPhone 17 5G|Apple|{density=3.0,width=1440,height=2400}
+iPhone 17 Plus|Apple|{density=2.75,width=720,height=2448}
+iPhone 17 Plus 4G|Apple|{density=2.75,width=720,height=2560}
+iPhone 17 Plus 5G|Apple|{density=2.75,width=1080,height=2560}
+iPhone 17 Pro|Apple|{density=2.75,width=1080,height=2280}
+iPhone 17 Pro 4G|Apple|{density=3.0,width=720,height=1920}
+iPhone 17 Pro 5G|Apple|{density=3.5,width=720,height=2480}
+iPhone 17 Pro Max|Apple|{density=2.75,width=720,height=2448}
+iPhone 17 Pro Max 4G|Apple|{density=3.0,width=1080,height=1920}
+iPhone 17 Pro Max 5G|Apple|{density=2.75,width=1440,height=1280}
+Camon 18|Tecno|{density=3.5,width=1440,height=2448}
+Camon 18 Pro|Tecno|{density=3.0,width=720,height=2400}
+Camon 18 Plus|Tecno|{density=3.5,width=1440,height=2560}
+Camon 18 4G|Tecno|{density=3.0,width=1080,height=2400}
+Camon 18 5G|Tecno|{density=3.0,width=1440,height=2280}
+Camon 18i|Tecno|{density=2.75,width=720,height=2480}
+Camon 18i Pro|Tecno|{density=2.75,width=1080,height=2560}
+Camon 18i Plus|Tecno|{density=3.0,width=720,height=2400}
+Camon 18i 4G|Tecno|{density=3.0,width=1080,height=2280}
+Camon 18i 5G|Tecno|{density=2.75,width=1440,height=2480}
+Camon 18 Premier|Tecno|{density=3.5,width=1080,height=2560}
+Camon 18 Premier Pro|Tecno|{density=3.5,width=1440,height=1920}
+Camon 18 Premier Plus|Tecno|{density=2.75,width=1440,height=2280}
+Camon 18 Premier 4G|Tecno|{density=3.0,width=1080,height=2480}
+Camon 18 Premier 5G|Tecno|{density=3.0,width=1080,height=2560}
+Camon 19|Tecno|{density=3.0,width=1080,height=1280}
+Camon 19 Pro|Tecno|{density=3.0,width=1440,height=2560}
+Camon 19 Plus|Tecno|{density=2.75,width=1080,height=2560}
+Camon 19 4G|Tecno|{density=3.5,width=1440,height=2560}
+Camon 19 5G|Tecno|{density=2.75,width=1080,height=1280}
+Camon 19 Pro|Tecno|{density=3.0,width=720,height=2560}
+Camon 19 Pro 4G|Tecno|{density=3.0,width=1080,height=2400}
+Camon 19 Pro 5G|Tecno|{density=2.75,width=1440,height=1280}
+Camon 19 Neo|Tecno|{density=2.75,width=1440,height=1920}
+Camon 19 Neo Pro|Tecno|{density=3.0,width=1440,height=1920}
+Camon 19 Neo Plus|Tecno|{density=2.75,width=720,height=2480}
+Camon 19 Neo 4G|Tecno|{density=2.75,width=720,height=1920}
+Camon 19 Neo 5G|Tecno|{density=3.0,width=720,height=1280}
+Camon 20|Tecno|{density=3.0,width=720,height=2280}
+Camon 20 Pro|Tecno|{density=2.75,width=1080,height=1920}
+Camon 20 Plus|Tecno|{density=2.75,width=720,height=2448}
+Camon 20 4G|Tecno|{density=3.5,width=1080,height=2400}
+Camon 20 5G|Tecno|{density=3.0,width=1440,height=2560}
+Camon 20 Pro|Tecno|{density=2.75,width=1440,height=2480}
+Camon 20 Pro 4G|Tecno|{density=3.0,width=1080,height=1280}
+Camon 20 Pro 5G|Tecno|{density=3.5,width=1080,height=1280}
+Camon 20 Premier|Tecno|{density=3.0,width=720,height=2560}
+Camon 20 Premier Pro|Tecno|{density=3.0,width=1080,height=2560}
+Camon 20 Premier Plus|Tecno|{density=2.75,width=1440,height=2448}
+Camon 20 Premier 4G|Tecno|{density=2.75,width=720,height=2400}
+Camon 20 Premier 5G|Tecno|{density=3.5,width=1440,height=2448}
+Camon 20s|Tecno|{density=2.75,width=1440,height=2480}
+Camon 20s Pro|Tecno|{density=2.75,width=1080,height=2560}
+Camon 20s Plus|Tecno|{density=3.0,width=1440,height=1920}
+Camon 20s 4G|Tecno|{density=3.5,width=1440,height=1280}
+Camon 20s 5G|Tecno|{density=2.75,width=1080,height=2448}
+Camon 30|Tecno|{density=2.75,width=1080,height=2448}
+Camon 30 Pro|Tecno|{density=3.0,width=1080,height=2280}
+Camon 30 Plus|Tecno|{density=3.0,width=1080,height=2560}
+Camon 30 4G|Tecno|{density=2.75,width=720,height=2280}
+Camon 30 5G|Tecno|{density=3.0,width=720,height=1920}
+Camon 30 Pro|Tecno|{density=3.0,width=1440,height=2480}
+Camon 30 Pro 4G|Tecno|{density=3.0,width=1440,height=1920}
+Camon 30 Pro 5G|Tecno|{density=3.5,width=1440,height=2560}
+Camon 30 Premier|Tecno|{density=3.0,width=1440,height=2448}
+Camon 30 Premier Pro|Tecno|{density=3.0,width=1440,height=2448}
+Camon 30 Premier Plus|Tecno|{density=3.5,width=1080,height=2280}
+Camon 30 Premier 4G|Tecno|{density=3.5,width=720,height=2448}
+Camon 30 Premier 5G|Tecno|{density=3.0,width=720,height=2400}
+Camon 30s|Tecno|{density=3.0,width=1080,height=2560}
+Camon 30s Pro|Tecno|{density=3.5,width=1080,height=1920}
+Camon 30s Plus|Tecno|{density=2.75,width=1080,height=1280}
+Camon 30s 4G|Tecno|{density=2.75,width=720,height=1280}
+Camon 30s 5G|Tecno|{density=2.75,width=1080,height=2560}
+Spark 8|Tecno|{density=3.0,width=720,height=2480}
+Spark 8 Pro|Tecno|{density=3.0,width=720,height=2280}
+Spark 8 Plus|Tecno|{density=3.5,width=1440,height=2448}
+Spark 8 4G|Tecno|{density=2.75,width=720,height=2400}
+Spark 8 5G|Tecno|{density=3.0,width=1440,height=1280}
+Spark 8P|Tecno|{density=3.0,width=720,height=2280}
+Spark 8P Pro|Tecno|{density=2.75,width=720,height=1920}
+Spark 8P Plus|Tecno|{density=3.5,width=1080,height=2400}
+Spark 8P 4G|Tecno|{density=3.0,width=720,height=2400}
+Spark 8P 5G|Tecno|{density=3.5,width=1440,height=2280}
+Spark 9|Tecno|{density=3.5,width=720,height=2280}
+Spark 9 Pro|Tecno|{density=3.5,width=720,height=2448}
+Spark 9 Plus|Tecno|{density=3.5,width=720,height=2280}
+Spark 9 4G|Tecno|{density=3.0,width=1440,height=2280}
+Spark 9 5G|Tecno|{density=3.5,width=1080,height=1920}
+Spark 9T|Tecno|{density=2.75,width=720,height=2448}
+Spark 9T Pro|Tecno|{density=3.5,width=1080,height=2400}
+Spark 9T Plus|Tecno|{density=3.5,width=720,height=2480}
+Spark 9T 4G|Tecno|{density=3.5,width=720,height=2448}
+Spark 9T 5G|Tecno|{density=2.75,width=1440,height=2560}
+Spark 9 Pro|Tecno|{density=3.0,width=1440,height=2448}
+Spark 9 Pro 4G|Tecno|{density=2.75,width=720,height=1920}
+Spark 9 Pro 5G|Tecno|{density=2.75,width=1440,height=2448}
+Spark 10|Tecno|{density=2.75,width=1080,height=2280}
+Spark 10 Pro|Tecno|{density=2.75,width=1440,height=2280}
+Spark 10 Plus|Tecno|{density=2.75,width=1440,height=1920}
+Spark 10 4G|Tecno|{density=2.75,width=1080,height=1280}
+Spark 10 5G|Tecno|{density=3.5,width=1440,height=1280}
+Spark 10 Pro|Tecno|{density=3.5,width=1080,height=1920}
+Spark 10 Pro 4G|Tecno|{density=3.5,width=720,height=1280}
+Spark 10 Pro 5G|Tecno|{density=3.0,width=1080,height=2280}
+Spark 10C|Tecno|{density=3.5,width=1440,height=2480}
+Spark 10C Pro|Tecno|{density=2.75,width=1080,height=1920}
+Spark 10C Plus|Tecno|{density=2.75,width=720,height=2400}
+Spark 10C 4G|Tecno|{density=2.75,width=1080,height=2560}
+Spark 10C 5G|Tecno|{density=3.5,width=1440,height=2280}
+Spark 20|Tecno|{density=2.75,width=1080,height=2560}
+Spark 20 Pro|Tecno|{density=3.0,width=1080,height=2400}
+Spark 20 Plus|Tecno|{density=3.5,width=720,height=2448}
+Spark 20 4G|Tecno|{density=3.5,width=720,height=2448}
+Spark 20 5G|Tecno|{density=3.5,width=1080,height=1280}
+Spark 20 Pro|Tecno|{density=3.5,width=1440,height=2400}
+Spark 20 Pro 4G|Tecno|{density=2.75,width=720,height=2560}
+Spark 20 Pro 5G|Tecno|{density=3.5,width=1080,height=2400}
+Spark 20C|Tecno|{density=2.75,width=1440,height=2400}
+Spark 20C Pro|Tecno|{density=2.75,width=1440,height=2480}
+Spark 20C Plus|Tecno|{density=3.5,width=720,height=2560}
+Spark 20C 4G|Tecno|{density=3.0,width=1080,height=2560}
+Spark 20C 5G|Tecno|{density=3.0,width=1080,height=2480}
+Spark 20 Plus|Tecno|{density=2.75,width=720,height=1280}
+Spark 20 Plus 4G|Tecno|{density=3.0,width=1080,height=2480}
+Spark 20 Plus 5G|Tecno|{density=2.75,width=1080,height=2280}
+Spark 30|Tecno|{density=3.0,width=1080,height=2448}
+Spark 30 Pro|Tecno|{density=2.75,width=1440,height=2480}
+Spark 30 Plus|Tecno|{density=3.5,width=720,height=2448}
+Spark 30 4G|Tecno|{density=3.0,width=1440,height=2560}
+Spark 30 5G|Tecno|{density=3.5,width=720,height=2400}
+Spark 30 Pro|Tecno|{density=2.75,width=720,height=2448}
+Spark 30 Pro 4G|Tecno|{density=3.0,width=720,height=2480}
+Spark 30 Pro 5G|Tecno|{density=2.75,width=720,height=2480}
+Pova 2|Tecno|{density=2.75,width=1440,height=2480}
+Pova 2 Pro|Tecno|{density=3.5,width=720,height=2280}
+Pova 2 Plus|Tecno|{density=3.0,width=1440,height=2400}
+Pova 2 4G|Tecno|{density=3.0,width=1080,height=1920}
+Pova 2 5G|Tecno|{density=2.75,width=1440,height=2480}
+Pova 3|Tecno|{density=2.75,width=1440,height=2400}
+Pova 3 Pro|Tecno|{density=3.0,width=720,height=2448}
+Pova 3 Plus|Tecno|{density=3.0,width=1080,height=2480}
+Pova 3 4G|Tecno|{density=3.5,width=1440,height=1280}
+Pova 3 5G|Tecno|{density=2.75,width=720,height=2448}
+Pova 4|Tecno|{density=3.0,width=1080,height=1920}
+Pova 4 Pro|Tecno|{density=2.75,width=1440,height=1920}
+Pova 4 Plus|Tecno|{density=3.0,width=1440,height=1280}
+Pova 4 4G|Tecno|{density=3.0,width=720,height=1920}
+Pova 4 5G|Tecno|{density=3.0,width=720,height=2480}
+Pova 4 Pro|Tecno|{density=3.0,width=1080,height=1280}
+Pova 4 Pro 4G|Tecno|{density=3.5,width=1080,height=2560}
+Pova 4 Pro 5G|Tecno|{density=2.75,width=720,height=1280}
+Pova 5|Tecno|{density=2.75,width=720,height=2480}
+Pova 5 Pro|Tecno|{density=3.0,width=720,height=2448}
+Pova 5 Plus|Tecno|{density=3.5,width=720,height=2480}
+Pova 5 4G|Tecno|{density=3.5,width=1440,height=1920}
+Pova 5 5G|Tecno|{density=3.0,width=1080,height=2560}
+Pova 5 Pro|Tecno|{density=2.75,width=1080,height=2480}
+Pova 5 Pro 4G|Tecno|{density=2.75,width=1440,height=2400}
+Pova 5 Pro 5G|Tecno|{density=2.75,width=1080,height=2280}
+Pova 5 Pro 5G|Tecno|{density=3.5,width=1080,height=1920}
+Pova 6|Tecno|{density=3.0,width=720,height=1920}
+Pova 6 Pro|Tecno|{density=3.5,width=720,height=1920}
+Pova 6 Plus|Tecno|{density=3.5,width=1440,height=2480}
+Pova 6 4G|Tecno|{density=3.5,width=1080,height=2560}
+Pova 6 5G|Tecno|{density=3.0,width=1080,height=2448}
+Pova 6 Pro|Tecno|{density=3.0,width=720,height=1920}
+Pova 6 Pro 4G|Tecno|{density=3.0,width=720,height=2448}
+Pova 6 Pro 5G|Tecno|{density=2.75,width=720,height=2560}
+Pova Neo|Tecno|{density=3.0,width=720,height=1280}
+Pova Neo Pro|Tecno|{density=3.5,width=1080,height=1280}
+Pova Neo Plus|Tecno|{density=2.75,width=1440,height=1920}
+Pova Neo 4G|Tecno|{density=3.0,width=1080,height=1280}
+Pova Neo 5G|Tecno|{density=3.0,width=1080,height=2400}
+Pova Neo 2|Tecno|{density=2.75,width=1080,height=1280}
+Pova Neo 2 Pro|Tecno|{density=3.0,width=1440,height=2480}
+Pova Neo 2 Plus|Tecno|{density=3.5,width=1440,height=2280}
+Pova Neo 2 4G|Tecno|{density=3.0,width=1080,height=1280}
+Pova Neo 2 5G|Tecno|{density=3.5,width=720,height=1920}
+Pova Neo 3|Tecno|{density=3.0,width=1440,height=1920}
+Pova Neo 3 Pro|Tecno|{density=3.0,width=720,height=2448}
+Pova Neo 3 Plus|Tecno|{density=3.0,width=720,height=2448}
+Pova Neo 3 4G|Tecno|{density=3.5,width=1080,height=1280}
+Pova Neo 3 5G|Tecno|{density=3.5,width=1080,height=1280}
+Pova Neo 4|Tecno|{density=3.5,width=1080,height=2560}
+Pova Neo 4 Pro|Tecno|{density=3.0,width=720,height=2480}
+Pova Neo 4 Plus|Tecno|{density=2.75,width=720,height=2448}
+Pova Neo 4 4G|Tecno|{density=3.5,width=1080,height=2560}
+Pova Neo 4 5G|Tecno|{density=2.75,width=720,height=2400}
+Phantom 9|Tecno|{density=2.75,width=1080,height=1280}
+Phantom 9 Pro|Tecno|{density=3.5,width=1080,height=2480}
+Phantom 9 Plus|Tecno|{density=3.0,width=1080,height=2280}
+Phantom 9 4G|Tecno|{density=3.0,width=1440,height=1280}
+Phantom 9 5G|Tecno|{density=2.75,width=1440,height=2280}
+Phantom X|Tecno|{density=3.0,width=1080,height=2448}
+Phantom X Pro|Tecno|{density=3.0,width=1080,height=2480}
+Phantom X Plus|Tecno|{density=3.0,width=1440,height=1280}
+Phantom X 4G|Tecno|{density=3.5,width=720,height=1920}
+Phantom X 5G|Tecno|{density=3.5,width=720,height=2480}
+Phantom X2|Tecno|{density=3.0,width=720,height=1280}
+Phantom X2 Pro|Tecno|{density=3.0,width=720,height=1280}
+Phantom X2 Plus|Tecno|{density=3.0,width=1440,height=1280}
+Phantom X2 4G|Tecno|{density=3.0,width=720,height=2400}
+Phantom X2 5G|Tecno|{density=3.0,width=720,height=2400}
+Phantom X2 Pro|Tecno|{density=3.0,width=1080,height=2560}
+Phantom X2 Pro 4G|Tecno|{density=3.5,width=720,height=2448}
+Phantom X2 Pro 5G|Tecno|{density=3.0,width=1080,height=2448}
+Phantom V Fold|Tecno|{density=3.5,width=720,height=2560}
+Phantom V Fold Pro|Tecno|{density=2.75,width=1080,height=2560}
+Phantom V Fold Plus|Tecno|{density=2.75,width=720,height=2560}
+Phantom V Fold 4G|Tecno|{density=3.0,width=1080,height=2480}
+Phantom V Fold 5G|Tecno|{density=2.75,width=1080,height=2560}
+Phantom V Flip|Tecno|{density=2.75,width=1440,height=2280}
+Phantom V Flip Pro|Tecno|{density=2.75,width=1080,height=2480}
+Phantom V Flip Plus|Tecno|{density=3.5,width=720,height=1920}
+Phantom V Flip 4G|Tecno|{density=2.75,width=1080,height=2400}
+Phantom V Flip 5G|Tecno|{density=3.0,width=1080,height=1920}
+Phantom Ultimate|Tecno|{density=3.0,width=1080,height=2560}
+Phantom Ultimate Pro|Tecno|{density=3.0,width=1440,height=2560}
+Phantom Ultimate Plus|Tecno|{density=2.75,width=1440,height=1920}
+Phantom Ultimate 4G|Tecno|{density=3.0,width=1440,height=2480}
+Phantom Ultimate 5G|Tecno|{density=3.5,width=1080,height=1920}
+Phantom Vision|Tecno|{density=3.0,width=1440,height=2280}
+Phantom Vision Pro|Tecno|{density=3.0,width=1080,height=2400}
+Phantom Vision Plus|Tecno|{density=3.5,width=1080,height=2448}
+Phantom Vision 4G|Tecno|{density=3.5,width=720,height=2280}
+Phantom Vision 5G|Tecno|{density=3.0,width=1080,height=2280}
+Note 8|Infinix|{density=3.0,width=720,height=2280}
+Note 8 Pro|Infinix|{density=3.5,width=1080,height=1920}
+Note 8 Plus|Infinix|{density=2.75,width=720,height=1280}
+Note 8 4G|Infinix|{density=3.0,width=1080,height=2480}
+Note 8 5G|Infinix|{density=2.75,width=1440,height=1280}
+Note 10|Infinix|{density=3.5,width=1080,height=2560}
+Note 10 Pro|Infinix|{density=3.5,width=720,height=2480}
+Note 10 Plus|Infinix|{density=3.0,width=1440,height=2400}
+Note 10 4G|Infinix|{density=2.75,width=1440,height=2560}
+Note 10 5G|Infinix|{density=3.5,width=720,height=2480}
+Note 11|Infinix|{density=2.75,width=720,height=2560}
+Note 11 Pro|Infinix|{density=3.5,width=1440,height=1280}
+Note 11 Plus|Infinix|{density=2.75,width=1440,height=2448}
+Note 11 4G|Infinix|{density=3.5,width=1080,height=1920}
+Note 11 5G|Infinix|{density=2.75,width=1440,height=2400}
+Note 12|Infinix|{density=3.0,width=1440,height=2400}
+Note 12 Pro|Infinix|{density=2.75,width=720,height=2480}
+Note 12 Plus|Infinix|{density=2.75,width=1440,height=2280}
+Note 12 4G|Infinix|{density=2.75,width=1440,height=1280}
+Note 12 5G|Infinix|{density=2.75,width=720,height=2280}
+Note 30|Infinix|{density=3.5,width=720,height=2480}
+Note 30 Pro|Infinix|{density=3.5,width=720,height=2400}
+Note 30 Plus|Infinix|{density=2.75,width=720,height=2480}
+Note 30 4G|Infinix|{density=2.75,width=720,height=1920}
+Note 30 5G|Infinix|{density=2.75,width=1440,height=2480}
+Note 40|Infinix|{density=3.5,width=1080,height=2280}
+Note 40 Pro|Infinix|{density=2.75,width=1080,height=2560}
+Note 40 Plus|Infinix|{density=3.0,width=1440,height=1280}
+Note 40 4G|Infinix|{density=2.75,width=1080,height=2280}
+Note 40 5G|Infinix|{density=2.75,width=1080,height=1280}
+Note 50|Infinix|{density=2.75,width=1080,height=2400}
+Note 50 Pro|Infinix|{density=3.5,width=1440,height=2560}
+Note 50 Plus|Infinix|{density=3.5,width=720,height=2448}
+Note 50 4G|Infinix|{density=3.5,width=1440,height=1280}
+Note 50 5G|Infinix|{density=3.5,width=1080,height=2480}
+Note 10 Pro|Infinix|{density=2.75,width=1440,height=2280}
+Note 10 Pro 4G|Infinix|{density=3.0,width=1440,height=2480}
+Note 10 Pro 5G|Infinix|{density=2.75,width=720,height=2280}
+Note 11 Pro|Infinix|{density=3.5,width=1080,height=1920}
+Note 11 Pro 4G|Infinix|{density=3.0,width=1440,height=2280}
+Note 11 Pro 5G|Infinix|{density=3.5,width=1080,height=2280}
+Note 12 Pro|Infinix|{density=3.0,width=720,height=2448}
+Note 12 Pro 4G|Infinix|{density=3.0,width=1440,height=1920}
+Note 12 Pro 5G|Infinix|{density=3.0,width=1440,height=1920}
+Note 30 Pro|Infinix|{density=3.5,width=1440,height=1280}
+Note 30 Pro 4G|Infinix|{density=3.0,width=720,height=2560}
+Note 30 Pro 5G|Infinix|{density=2.75,width=1080,height=2400}
+Note 40 Pro|Infinix|{density=3.5,width=1440,height=2400}
+Note 40 Pro 4G|Infinix|{density=2.75,width=720,height=2280}
+Note 40 Pro 5G|Infinix|{density=3.5,width=720,height=2448}
+Note 50 Pro|Infinix|{density=3.5,width=720,height=1920}
+Note 50 Pro 4G|Infinix|{density=3.5,width=1080,height=2280}
+Note 50 Pro 5G|Infinix|{density=3.5,width=1080,height=2560}
+Note 11s|Infinix|{density=3.0,width=1080,height=2280}
+Note 11s Pro|Infinix|{density=2.75,width=1440,height=1280}
+Note 11s Plus|Infinix|{density=2.75,width=720,height=1920}
+Note 11s 4G|Infinix|{density=2.75,width=1440,height=2560}
+Note 11s 5G|Infinix|{density=2.75,width=1080,height=2480}
+Note 12i|Infinix|{density=3.5,width=1440,height=2560}
+Note 12i Pro|Infinix|{density=3.5,width=1440,height=1280}
+Note 12i Plus|Infinix|{density=3.5,width=720,height=2400}
+Note 12i 4G|Infinix|{density=2.75,width=1440,height=1920}
+Note 12i 5G|Infinix|{density=2.75,width=1080,height=1280}
+Note 30i|Infinix|{density=3.5,width=1080,height=1920}
+Note 30i Pro|Infinix|{density=3.5,width=720,height=2448}
+Note 30i Plus|Infinix|{density=3.5,width=720,height=2560}
+Note 30i 4G|Infinix|{density=2.75,width=1440,height=1280}
+Note 30i 5G|Infinix|{density=3.0,width=1080,height=1920}
+Note 40i|Infinix|{density=3.5,width=1440,height=2400}
+Note 40i Pro|Infinix|{density=3.0,width=720,height=1920}
+Note 40i Plus|Infinix|{density=3.5,width=1440,height=2448}
+Note 40i 4G|Infinix|{density=3.0,width=1080,height=2280}
+Note 40i 5G|Infinix|{density=2.75,width=1440,height=1280}
+Note 50i|Infinix|{density=2.75,width=1440,height=2280}
+Note 50i Pro|Infinix|{density=3.0,width=720,height=2448}
+Note 50i Plus|Infinix|{density=3.0,width=1440,height=1920}
+Note 50i 4G|Infinix|{density=3.0,width=720,height=2480}
+Note 50i 5G|Infinix|{density=3.5,width=1080,height=1280}
+Zero 8|Infinix|{density=3.0,width=720,height=2480}
+Zero 8 Pro|Infinix|{density=2.75,width=1080,height=2280}
+Zero 8 Plus|Infinix|{density=3.0,width=720,height=2280}
+Zero 8 4G|Infinix|{density=2.75,width=1440,height=2400}
+Zero 8 5G|Infinix|{density=3.0,width=720,height=2400}
+Zero 20|Infinix|{density=3.5,width=1080,height=2280}
+Zero 20 Pro|Infinix|{density=2.75,width=720,height=2560}
+Zero 20 Plus|Infinix|{density=3.5,width=1080,height=1920}
+Zero 20 4G|Infinix|{density=3.0,width=1440,height=1280}
+Zero 20 5G|Infinix|{density=2.75,width=720,height=1280}
+Zero 30|Infinix|{density=2.75,width=720,height=2560}
+Zero 30 Pro|Infinix|{density=3.0,width=1440,height=2400}
+Zero 30 Plus|Infinix|{density=3.5,width=1080,height=1280}
+Zero 30 4G|Infinix|{density=2.75,width=1080,height=2400}
+Zero 30 5G|Infinix|{density=3.5,width=720,height=2448}
+Zero 40|Infinix|{density=3.0,width=1440,height=2480}
+Zero 40 Pro|Infinix|{density=2.75,width=1080,height=2280}
+Zero 40 Plus|Infinix|{density=2.75,width=1080,height=2400}
+Zero 40 4G|Infinix|{density=2.75,width=1440,height=1280}
+Zero 40 5G|Infinix|{density=3.5,width=1440,height=2400}
+Zero 50|Infinix|{density=3.0,width=1440,height=1280}
+Zero 50 Pro|Infinix|{density=3.0,width=1080,height=2448}
+Zero 50 Plus|Infinix|{density=2.75,width=1080,height=2448}
+Zero 50 4G|Infinix|{density=3.5,width=1080,height=2560}
+Zero 50 5G|Infinix|{density=3.0,width=720,height=2560}
+Zero 20 Pro|Infinix|{density=3.0,width=720,height=2400}
+Zero 20 Pro 4G|Infinix|{density=3.5,width=720,height=2448}
+Zero 20 Pro 5G|Infinix|{density=3.5,width=720,height=2448}
+Zero 30 Pro|Infinix|{density=2.75,width=1440,height=1920}
+Zero 30 Pro 4G|Infinix|{density=2.75,width=1080,height=2480}
+Zero 30 Pro 5G|Infinix|{density=2.75,width=1440,height=1920}
+Zero 40 Pro|Infinix|{density=3.0,width=1080,height=1920}
+Zero 40 Pro 4G|Infinix|{density=3.5,width=720,height=1280}
+Zero 40 Pro 5G|Infinix|{density=3.5,width=720,height=2448}
+Zero 50 Pro|Infinix|{density=3.0,width=1440,height=1280}
+Zero 50 Pro 4G|Infinix|{density=3.0,width=720,height=2448}
+Zero 50 Pro 5G|Infinix|{density=2.75,width=1440,height=2448}
+Hot 10|Infinix|{density=3.0,width=720,height=1280}
+Hot 10 Pro|Infinix|{density=2.75,width=720,height=2480}
+Hot 10 Plus|Infinix|{density=3.5,width=720,height=2560}
+Hot 10 4G|Infinix|{density=3.5,width=720,height=1280}
+Hot 10 5G|Infinix|{density=2.75,width=720,height=2400}
+Hot 11|Infinix|{density=2.75,width=1440,height=2480}
+Hot 11 Pro|Infinix|{density=2.75,width=720,height=1920}
+Hot 11 Plus|Infinix|{density=3.5,width=720,height=2448}
+Hot 11 4G|Infinix|{density=3.5,width=720,height=2560}
+Hot 11 5G|Infinix|{density=3.5,width=1440,height=2560}
+Hot 12|Infinix|{density=3.5,width=1080,height=2400}
+Hot 12 Pro|Infinix|{density=3.5,width=720,height=1920}
+Hot 12 Plus|Infinix|{density=2.75,width=1440,height=2560}
+Hot 12 4G|Infinix|{density=3.0,width=1440,height=2448}
+Hot 12 5G|Infinix|{density=3.5,width=1440,height=2560}
+Hot 20|Infinix|{density=2.75,width=1080,height=2280}
+Hot 20 Pro|Infinix|{density=3.0,width=1080,height=2280}
+Hot 20 Plus|Infinix|{density=3.5,width=1080,height=2448}
+Hot 20 4G|Infinix|{density=3.5,width=720,height=2280}
+Hot 20 5G|Infinix|{density=3.0,width=720,height=2280}
+Hot 30|Infinix|{density=3.5,width=1440,height=1280}
+Hot 30 Pro|Infinix|{density=3.0,width=1440,height=1280}
+Hot 30 Plus|Infinix|{density=3.0,width=1080,height=2480}
+Hot 30 4G|Infinix|{density=2.75,width=1080,height=2448}
+Hot 30 5G|Infinix|{density=3.5,width=1080,height=2480}
+Hot 40|Infinix|{density=3.5,width=1080,height=1920}
+Hot 40 Pro|Infinix|{density=2.75,width=1080,height=1920}
+Hot 40 Plus|Infinix|{density=3.5,width=1080,height=2448}
+Hot 40 4G|Infinix|{density=2.75,width=1440,height=2560}
+Hot 40 5G|Infinix|{density=2.75,width=1440,height=1920}
+Hot 50|Infinix|{density=3.0,width=1440,height=1280}
+Hot 50 Pro|Infinix|{density=3.5,width=1080,height=1920}
+Hot 50 Plus|Infinix|{density=3.5,width=1080,height=2280}
+Hot 50 4G|Infinix|{density=3.5,width=1440,height=2400}
+Hot 50 5G|Infinix|{density=3.0,width=1080,height=1280}
+Hot 10 Pro|Infinix|{density=3.5,width=1080,height=1920}
+Hot 10 Pro 4G|Infinix|{density=2.75,width=1080,height=2280}
+Hot 10 Pro 5G|Infinix|{density=2.75,width=1080,height=1920}
+Hot 11 Pro|Infinix|{density=3.0,width=720,height=2280}
+Hot 11 Pro 4G|Infinix|{density=3.5,width=1080,height=2448}
+Hot 11 Pro 5G|Infinix|{density=3.0,width=1440,height=2400}
+Hot 12 Pro|Infinix|{density=3.0,width=720,height=2480}
+Hot 12 Pro 4G|Infinix|{density=3.5,width=1080,height=2280}
+Hot 12 Pro 5G|Infinix|{density=2.75,width=720,height=2560}
+Hot 30 Pro|Infinix|{density=3.5,width=1440,height=1920}
+Hot 30 Pro 4G|Infinix|{density=2.75,width=1440,height=2560}
+Hot 30 Pro 5G|Infinix|{density=2.75,width=720,height=1920}
+Hot 40 Pro|Infinix|{density=3.0,width=1080,height=1920}
+Hot 40 Pro 4G|Infinix|{density=3.5,width=720,height=2448}
+Hot 40 Pro 5G|Infinix|{density=3.5,width=1080,height=2280}
+Hot 50 Pro|Infinix|{density=2.75,width=1440,height=2480}
+Hot 50 Pro 4G|Infinix|{density=2.75,width=1080,height=2280}
+Hot 50 Pro 5G|Infinix|{density=2.75,width=1440,height=2448}
+Smart 6|Infinix|{density=3.5,width=1440,height=2400}
+Smart 6 Pro|Infinix|{density=3.0,width=1080,height=1920}
+Smart 6 Plus|Infinix|{density=3.0,width=1080,height=2448}
+Smart 6 4G|Infinix|{density=3.5,width=1440,height=2480}
+Smart 6 5G|Infinix|{density=3.0,width=1440,height=1280}
+Smart 7|Infinix|{density=3.5,width=720,height=1920}
+Smart 7 Pro|Infinix|{density=2.75,width=1080,height=1920}
+Smart 7 Plus|Infinix|{density=3.5,width=720,height=2400}
+Smart 7 4G|Infinix|{density=3.5,width=1440,height=2448}
+Smart 7 5G|Infinix|{density=3.5,width=1440,height=2400}
+Smart 8|Infinix|{density=3.0,width=1080,height=2560}
+Smart 8 Pro|Infinix|{density=3.0,width=720,height=2280}
+Smart 8 Plus|Infinix|{density=3.5,width=1440,height=1920}
+Smart 8 4G|Infinix|{density=3.0,width=1440,height=2448}
+Smart 8 5G|Infinix|{density=3.0,width=720,height=2560}
+Smart 9|Infinix|{density=3.5,width=1440,height=1920}
+Smart 9 Pro|Infinix|{density=3.5,width=1080,height=2280}
+Smart 9 Plus|Infinix|{density=3.0,width=1080,height=2280}
+Smart 9 4G|Infinix|{density=3.5,width=1080,height=2560}
+Smart 9 5G|Infinix|{density=2.75,width=1080,height=2400}
+Smart 10|Infinix|{density=2.75,width=1080,height=1920}
+Smart 10 Pro|Infinix|{density=3.0,width=1080,height=2448}
+Smart 10 Plus|Infinix|{density=3.0,width=1440,height=2560}
+Smart 10 4G|Infinix|{density=3.0,width=720,height=1920}
+Smart 10 5G|Infinix|{density=2.75,width=1440,height=2560}
+Smart 7 Pro|Infinix|{density=3.0,width=1440,height=1280}
+Smart 7 Pro 4G|Infinix|{density=3.5,width=1080,height=2448}
+Smart 7 Pro 5G|Infinix|{density=2.75,width=720,height=2448}
+Smart 8 Pro|Infinix|{density=3.0,width=1080,height=1280}
+Smart 8 Pro 4G|Infinix|{density=3.5,width=1080,height=2448}
+Smart 8 Pro 5G|Infinix|{density=3.5,width=720,height=2480}
+Smart 9 Pro|Infinix|{density=3.5,width=1440,height=2280}
+Smart 9 Pro 4G|Infinix|{density=3.0,width=1440,height=2280}
+Smart 9 Pro 5G|Infinix|{density=2.75,width=1080,height=1920}
+GT 10 Pro|Infinix|{density=3.5,width=1440,height=2448}
+GT 10 Pro 4G|Infinix|{density=3.5,width=1080,height=2560}
+GT 10 Pro 5G|Infinix|{density=3.0,width=720,height=2280}
+GT 20 Pro|Infinix|{density=3.5,width=1080,height=2448}
+GT 20 Pro 4G|Infinix|{density=2.75,width=1440,height=2280}
+GT 20 Pro 5G|Infinix|{density=2.75,width=1080,height=2480}
+GT 30 Pro|Infinix|{density=3.0,width=1440,height=2448}
+GT 30 Pro 4G|Infinix|{density=3.0,width=1080,height=2448}
+GT 30 Pro 5G|Infinix|{density=2.75,width=1440,height=1280}
